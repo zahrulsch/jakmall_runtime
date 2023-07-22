@@ -1,0 +1,110 @@
+JAKMALL: 21-Jul-2023 15:26:54 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 15:26:54 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 15:26:57 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 15:26:57 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 15:27:49 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 15:27:49 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 15:29:02 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 15:29:02 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 15:29:24 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 15:29:24 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 15:29:52 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 15:29:52 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 15:30:43 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 15:30:43 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 15:31:18 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 15:31:18 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 15:34:28 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 15:34:28 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 15:34:35 INFO - 🚀 Client terhubung id: { Bvr4a3w_S-190XX5 }
+JAKMALL: 21-Jul-2023 15:34:40 INFO - 🚀 Client terhubung id: { l80T347LVuwc1O0T }
+JAKMALL: 21-Jul-2023 15:34:41 INFO - ❌ Client terputus id: { l80T347LVuwc1O0T }
+JAKMALL: 21-Jul-2023 15:34:42 INFO - 🚀 Client terhubung id: { tEEIc8ZJnsDXgOMf }
+JAKMALL: 21-Jul-2023 15:34:46 INFO - Mengirim pesan socket ke client id: Bvr4a3w_S-190XX5
+JAKMALL: 21-Jul-2023 15:34:46 INFO - Mengirim pesan socket ke client id: tEEIc8ZJnsDXgOMf
+JAKMALL: 21-Jul-2023 15:38:00 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 15:38:00 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 15:38:27 INFO - 🚀 Client terhubung id: EVh73T3x8uQfTdtC
+JAKMALL: 21-Jul-2023 15:38:30 INFO - 🚀 Client terhubung id: NbJsnfKct3OvR_gF
+JAKMALL: 21-Jul-2023 15:38:32 INFO - 📨 Mengirim pesan socket ke client id: EVh73T3x8uQfTdtC
+JAKMALL: 21-Jul-2023 15:38:32 INFO - 📨 Mengirim pesan socket ke client id: NbJsnfKct3OvR_gF
+JAKMALL: 21-Jul-2023 15:38:59 INFO - ❌ Client terputus id: EVh73T3x8uQfTdtC
+JAKMALL: 21-Jul-2023 18:08:11 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 18:08:11 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 18:08:52 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 18:08:52 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 18:23:36 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 18:23:36 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 18:41:28 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 18:41:28 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 18:41:51 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 18:41:51 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 18:44:49 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 18:44:49 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 18:45:22 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 18:45:22 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 18:45:54 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 18:45:54 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 19:06:54 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 19:06:54 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 19:11:48 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 19:11:48 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 19:31:11 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 19:31:11 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 20:15:16 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 20:15:16 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 20:15:46 INFO - 🚀 Client terhubung id: tFH7KbrHWxWi8ZID
+JAKMALL: 21-Jul-2023 20:15:49 INFO - 📨 Mengirim pesan socket ke client id: tFH7KbrHWxWi8ZID
+JAKMALL: 21-Jul-2023 21:45:52 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 21:45:52 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 21:45:56 INFO - 🚀 Client terhubung id: EYHh929Q_WGvOxWp
+JAKMALL: 21-Jul-2023 21:46:00 INFO - 📨 Mengirim pesan socket ke client id: EYHh929Q_WGvOxWp
+JAKMALL: 21-Jul-2023 21:46:14 INFO - 📨 Mengirim pesan socket ke client id: EYHh929Q_WGvOxWp
+JAKMALL: 21-Jul-2023 21:46:14 INFO - 📨 Mengirim pesan socket ke client id: EYHh929Q_WGvOxWp
+JAKMALL: 21-Jul-2023 21:46:15 INFO - 📨 Mengirim pesan socket ke client id: EYHh929Q_WGvOxWp
+JAKMALL: 21-Jul-2023 21:46:16 INFO - 📨 Mengirim pesan socket ke client id: EYHh929Q_WGvOxWp
+JAKMALL: 21-Jul-2023 21:47:27 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 21:47:27 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 21:47:36 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 21:47:36 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 21:47:38 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 21:47:38 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 21:49:00 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 21:49:00 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 21:49:20 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 21:49:20 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 21:49:25 INFO - 🚀 Client terhubung id: SnVN7fjXAMrZ2y_H
+JAKMALL: 21-Jul-2023 21:49:31 INFO - 📨 Mengirim pesan socket ke client id: SnVN7fjXAMrZ2y_H
+JAKMALL: 21-Jul-2023 21:51:36 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 21:51:36 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 21:52:30 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 21:52:30 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 21:55:48 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 21:55:48 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 21:58:04 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 21:58:04 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 21:58:30 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 21:58:30 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 22:01:17 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 22:01:17 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 22:01:45 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 22:01:45 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 22:02:16 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 22:02:16 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 22:02:55 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 22:02:55 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 22:03:23 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 22:03:23 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 22:04:47 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 22:04:47 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 22:05:04 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 22:05:04 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 22:05:40 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 22:05:40 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 22:06:39 INFO - 🚀 Client terhubung id: RaBcoBgDgNGHoybl
+JAKMALL: 21-Jul-2023 22:06:52 INFO - 📨 Mengirim pesan socket ke client id: RaBcoBgDgNGHoybl
+JAKMALL: 21-Jul-2023 22:43:07 INFO - Server::run; addr=127.0.0.1:8000
+JAKMALL: 21-Jul-2023 22:43:07 INFO - listening on http://127.0.0.1:8000
+JAKMALL: 21-Jul-2023 22:43:27 INFO - 🚀 Client terhubung id: uuX-O-AsnSKumBch
+JAKMALL: 21-Jul-2023 22:43:32 INFO - 📨 Mengirim pesan socket ke client id: uuX-O-AsnSKumBch
+JAKMALL: 21-Jul-2023 23:53:51 INFO - ❌ Client terputus id: uuX-O-AsnSKumBch

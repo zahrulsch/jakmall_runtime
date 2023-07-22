@@ -1,0 +1,487 @@
+Handphone & Tablet,handphone-tablet
+Aksesoris Handphone,aksesoris-handphone
+Kabel Data & Charger,kabel-charger-data
+Baterai,baterai
+Casing & Cover,pelindung-layar-handphone
+Screen Guard,screen-guard
+Spare Part,spare-part
+Aksesoris Handphone Lainnya,aksesoris-handphone-lainnya
+Adaptor Charger,adaptor-charger
+USB Charger,usb-charger
+Wireless Charger,wireless-charger
+Charger Mobil & Motor,charger-mobil-motor
+Charger Lainnya,charger-lainnya
+Handphone,telepon-genggam
+Handphone Basic,handphone-basic
+Smartphone,smartphone
+Tablet,tablet
+Aksesoris Tablet,aksesoris-tablet
+Baterai,baterai-tablet
+Casing & Cover,casing-tablet
+Screen Guard,screen-guard-tablet
+Keyboard Tablet,keyboard-tablet
+Spare Part,spare-part-tablet
+Aksesoris Tablet Lainnya,aksesoris-tablet-lainnya
+Memory Card,memory-card
+Micro SD Card,micro-sd-card
+SD Card,sd-card
+Memory Card Lainnya,memory-card-lainnya
+Smartwatch,smartwatch
+Smartwatch,smartwatch-basic
+Tracker Fitness & Activities,tracker-fitness-activities
+Aksesoris Smartwatch,aksesoris-smartwatch
+Peralatan Reparasi Handphone & Tablet,peralatan-reparasi-handphone-tablet
+Power Bank,power-bank
+Portable Power Bank Charger,power-bank-portable-charger
+Case Power Bank,case-power-bank
+Stand & Holder,stand-holder-tablet
+Stylus,stylus-handphone-tablet
+Tongsis,tongsis
+Kartu Perdana,kartu-perdana
+Kartu GSM,kartu-gsm
+Adapter Kartu SIM,adapter-kartu-sim
+Pemotong Kartu SIM,pemotong-kartu-sim
+Virtual Reality,virtual-reality
+Komputer & Laptop,komputer-laptop
+Aksesoris Komputer,aksesoris-komputer
+Monitor,monitor
+Mouse,mouse
+Keyboard,keyboard
+UPS,ups
+Gamepad & Joystick,gamepad-joystick
+Webcam,webcam
+Card Reader,memory-card-reader
+Proyektor,proyektor-laser-presenter
+Kabel & Konektor,kabel-konektor
+Aksesoris Komputer Lainnya,aksesoris-komputer-lainnya
+Laptop,laptop-notebook
+Laptop 2 in 1,laptop-2-in-1
+Notebook,notebook
+Premium & Ultrabook,apple-macbook
+Aksesoris Laptop,aksesoris-laptop
+Cooling Pad,cooling-pad-stand-pendingin-laptop
+Protector,protector
+Meja Laptop,meja-laptop
+Tas Laptop,tas-laptop
+Aksesoris Laptop Lainnya,aksesoris-laptop-lainnya
+Desktop & Mini PC,desktop-mini-pc
+Komponen Laptop,komponen-laptop
+RAM,ram-laptop
+Baterai Laptop,baterai-laptop
+Adaptor Laptop,adaptor-laptop
+Spare Part,spare-part-laptop
+Komponen Komputer,komponen-komputer
+Processor,processor
+Sound Card,sound-card
+Optical Drive,optical-drive
+VGA Card,vga-card
+Power Supply,power-supply
+Motherboard,motherboard
+Memory / RAM,ram-komputer
+Casing Komputer,casing-komputer
+Cooler,cooler
+Komponen Komputer Lainnya,komponen-komputer-lainnya
+Storage,storage
+HDD Eksternal,hdd-eksternal
+HDD Internal,hdd-internal
+SSD,ssd
+Flashdisk,usb-flashdisk-flash-drive
+Casing & Docking HDD,casing-docking-hard-disk
+CD / DVD / Blu-Ray,cd-dvd-blu-ray
+Storage Lainnya,storage-lainnya
+Printer & Scanner,printer-scanner
+Printer,printer
+Point Of Sales (POS),point-of-sales-pos
+Tinta Printer,tinta-printer
+Kertas Printer,kertas-printer
+Spare Part,sparet-part-printer
+Aksesoris Printer Lainnya,aksesoris-printer
+Networking,networking
+Modem,modem
+Router,router
+Switch & Hub,switch-hub
+WiFi Signal Booster,wifi-signal-booster
+Network Card,network-card
+Kabel & Adapter,kabel-adapter
+Networking Lainnya,networking-lainnya
+Software,software
+Anti Virus,anti-virus
+Operating System,operating-system
+Software Lainnya,software-lainnya
+Elektronik,elektronik
+TV,tv
+Televisi,televisi
+Suku Cadang,suku-cadang-televisi
+Aksesoris TV,aksesoris-tv
+Media Player,media-player
+DVD / VCD Player,dvd-vcd-player
+MP3 / MP4 Player,mp3-mp4-player
+Suku Cadang,suku-cadang
+Media Player Lainnya,media-player-lainnya
+Audio,audio
+Speaker,speaker
+Headset & Earphone,headset-earphone
+Headphone,headphone
+Mikrofon,mikrofon
+Aksesoris Audio,aksesoris-audio
+Audio Lainnya,amplifier-dac
+Aksesoris Video,aksesoris-video
+Kamera Keamanan,kamera-keamanan-cctv
+CCTv,cctv
+Aksesoris CCTv,aksesoris-cctv
+Telepon,telepon
+Telepon Kabel,telepon-kabel
+Telepon Wireless,telepon-wireless
+Telepon Satelit,telepon-satelit
+Penjernih Ruangan,penjernih-ruangan
+Air Humidifier,air-humidifier
+Air Purifier,air-purifier
+Pendingin Ruangan,pendingin-ruangan
+AC,ac
+Kipas Angin,kipas-angin
+Pendingin Portable,pendingin-portable
+Aksesoris Pendingin Ruangan,aksesoris-pendingin-ruangan
+Foto & Videografi,foto-videografi
+Kamera & Video,kamera-video
+Kamera DSLR,kamera-dslr
+Kamera Mirrorless,kamera-mirrorless
+Kamera Aksi,kamera-aksi
+Kamera Saku,kamera-saku
+Kamera Instan,kamera-instan
+Handycam,handycam
+Camcorder,camcorder
+Kamera Drone,kamera-drone
+Kamera & Video Lainnya,kamera-video-lainnya
+Lensa Kamera,lensa-kamera
+Lensa,lensa
+Lens Hood,lens-hood
+Penutup Lensa,penutup-lensa
+Filter Kamera,filter-kamera
+Ekstension Lensa,ekstension-lensa
+Aksesoris Kamera & Video,aksesoris-kamera-video
+Aksesoris Kamera Aksi,aksesoris-kamera-aksi
+Tripod, Monopod, Stabilizer & Rig,tripod-monopod-stabilizer-rig
+Remote & Trigger,remote-trigger
+Tas Kamera,tas-kamera
+Casing Pelindung,casing-pelindung-kamera
+Charger & Baterai,charger-baterai-kamera
+Viewfinder & Monitor,viewfinder-monitor-kamera
+Perawatan Kamera,perawatan-kamera
+Flash & Diffuser,flash-diffuser-kamera
+Perlengkapan Lighting & Studio,perlengkapan-lighting-studio
+Mikrofon,mikrofon-kamera
+Album & Frame,album-frame
+Aksesoris Kamera & Video Lainnya,aksesoris-kamera-video-lainnya
+Fashion & Perhiasan,fashion-perhiasan
+Aksesoris Fashion Pria,aksesoris-fashion-pria
+Ikat Pinggang,ikat-pinggang-pria
+Jam Tangan,jam-tangan-pria
+Kacamata,kacamata-pria
+Sarung Tangan,sarung-tangan-pria
+Syal,syal-pria
+Aksesoris Pria Lainnya,aksesoris-pria-lainnya
+Topi,topi-pria
+Aksesoris Fashion Wanita,aksesoris-fashion-wanita
+Ikat Pinggang,ikat-pinggang
+Kacamata,kacamata-wanita
+Jam Tangan,jam-tangan-wanita
+Topi,topi
+Sarung Tangan,sarung-tangan
+Syal & Scarf,syal-scarf
+Aksesoris Wanita Lainnya,aksesoris-wanita-lainnya
+Pakaian Pria,pakaian-pria
+Atasan,atasan-pria
+Bawahan,bawahan-pria
+Outwear,outwear-pria
+Batik,batik-pria
+Pakaian Tidur,pakaian-tidur-pria
+Pakaian Dalam,pakaian-dalam-pria
+Pakaian Pria Lainnya,pakaian-pria-lainnya
+Tas & Dompet Pria,tas-dompet-pria
+Tas Selempang & Pinggang,tas-selempang-pinggang-pria
+Clutch,clutch-pria
+Ransel,ransel-pria
+Dompet,dompet-pria
+Tas & Dompet Pria Lainnya,tas-dompet-pria-lainnya
+Tas & Dompet Wanita,tas-dompet-wanita
+Tas Tote,tas-tote
+Tas Selempang & Pinggang,tas-selempang-pinggang
+Clutch,clutch
+Tas Ransel,tas-ransel
+Dompet,dompet-wanita
+Tas Wanita Lainnya,tas-wanita-lainnya
+Pakaian Wanita,pakaian-wanita
+Atasan,atasan
+Bawahan,bawahan
+Outerwear,outerwear
+Dress,dress
+Jumpsuit & Overall,jumpsuit-overall
+Batik & Kebaya,batik-kebaya
+Pakaian Dalam & Shapewear,pakaian-dalam-shapewear-wanita
+Pakaian Tidur,pakaian-tidur
+Pakaian Wanita Lainnya,pakaian-wanita-lainnya
+Sepatu & Sandal Pria,sepatu-pria
+Boots,boots-pria
+Sepatu Formal,sepatu-formal-pria
+Sepatu Kasual,sepatu-kasual-pria
+Sandal,sandal-pria
+Kaos Kaki,kaos-kaki-pria
+Perawatan Sepatu,perawatan-sepatu-pria
+Sepatu & Sandal Pria Lainnya,sepatu-sandal-pria-lainnya
+Sepatu & Sendal Wanita,sepatu-sendal-wanita
+Sepatu Formal,sepatu-formal
+Sepatu Kasual,sepatu-kasual
+Heels,heels
+Wedges,wedges
+Boots,boots
+Sandal,sandal
+Kaos Kaki,kaos-kaki
+Perawatan Sepatu,perawatan-sepatu
+Sepatu & Sandal Wanita Lainnya,sepatu-sandal-wanita-lainnya
+Perhiasan,perhiasan
+Gelang & Bangles,gelang-bangles
+Anting,anting
+Kalung & Liontin,kalung-liontin
+Cincin,cincin
+Perhiasan Lainnya,perhiasan-lainnya
+Kotak Perhiasan,kotak-perhiasan
+Fashion Muslim,fashion-muslim
+Hijab,hijab
+Atasan Muslim Wanita,atasan-muslim-wanita
+Bawahan Muslim Wanita,bawahan-muslim-wanita
+Dress Muslim,dress-muslim
+Atasan Muslim Pria,atasan-muslim-pria
+Mukena,mukena
+Pakaian Muslim Anak,pakaian-muslim-anak
+Perlengkapan Sholat,perlengkapan-sholat
+Fashion Muslim Lainnya,fashion-muslim-lainnya
+Ibu, Bayi & Anak,ibu-bayi-anak
+Pakaian Ibu Hamil & Menyusui,pakaian-ibu-hamil-menyusui
+Pakaian Dalam Ibu Hamil & Menyusui,pakaian-dalam-ibu-hamil-menyusui
+Pakaian Hamil,pakaian-hamil
+Perlengkapan Ibu Hamil dan Menyusui,perlengkapan-ibu-hamil-dan-menyusui
+Nutrisi & Vitamin,nutrisi-vitamin
+Pompa ASI & Aksesoris,pompa-asi-aksesoris
+Perlengkapan Ibu Hamil & Menyusui Lainnya,perlengkapan-ibu-hamil-menyusui-lainnya
+Perlengkapan Bayi,perlengkapan-bayi
+Perlengkapan Makan Bayi,perlengkapan-makan-bayi
+Perlengkapan Mandi Bayi,perlengkapan-mandi-bayi
+Perlengkapan Tidur Bayi,perlengkapan-tidur-bayi
+Perawatan Tubuh Bayi,perawatan-tubuh-bayi
+Diapering / Popok Bayi,diapering-popok-bayi
+Perlengkapan Travelling Bayi,perlengkapan-travelling-bayi
+Perlengkapan Bayi Lainnya,perlengkapan-bayi-lainnya
+Pakaian Bayi & Anak,pakaian-bayi-anak
+Pakaian Bayi,pakaian-bayi
+Pakaian Anak Perempuan,pakaian-anak-perempuan
+Pakaian Anak Laki-Laki,pakaian-anak-laki-laki
+Pakaian Bayi & Anak Lainnya,pakaian-bayi-anak-lainnya
+Sepatu Bayi & Anak,sepatu-bayi-anak
+Sepatu Bayi,sepatu-bayi
+Sepatu Anak Perempuan,sepatu-anak-perempuan
+Sepatu Anak Laki-Laki,sepatu-anak-laki-laki
+Sepatu Bayi & Anak Lainnya,sepatu-bayi-anak-lainnya
+Tas Anak,tas-anak
+Tas Anak Perempuan,tas-anak-perempuan
+Tas Anak Laki-Laki,tas-anak-laki-laki
+Tas Anak Lainnya,tas-anak-lainnya
+Aksesoris Bayi & Anak,aksesoris-bayi-anak
+Kesehatan & Kecantikan,kesehatan-kecantikan
+Perawatan & Kecantikan,perawatan-kecantikan
+Makeup,makeup
+Perlengkapan Make Up,perlengkapan-make-up
+Perawatan Wajah,perawatan-wajah
+Perawatan Tubuh,perawatan-tubuh
+Perawatan Pria,perawatan-pria
+Parfume,parfume
+Hair Care,hair-care
+Softlens,softlens
+Hand & Nail Art,hand-nail-art
+Kecantikan & Perawatan Lainnya,kecantikan-perawatan-lainnya
+Kesehatan,kesehatan
+Essential Oil,essential-oil
+Suplemen,suplemen
+Obat-obatan,obat-obatan
+Obat Herbal,obat-herbal
+Produk Kesehatan Lainnya,produk-kesehatan-lainnya
+Produk Dewasa,produk-dewasa
+Alat Kecantikan & Kesehatan,alat-kecantikan-kesehatan
+Alat Perawatan Kulit,alat-perawatan-kulit
+Alat Pencukur,alat-pencukur
+Alat Pelangsing & Pemijat,alat-pelangsing-pemijat
+Alat Medis,alat-medis
+Alat Styling Rambut,alat-styling-rambut
+Alat Kecantikan & Kesehatan Lainnya,alat-kecantikan-kesehatan-lainnya
+Mainan & Video Games,mainan-video-games
+Mainan,mainan
+Action Figure,mainan-action-figure
+Edukasi & Ketangkasan,edukasi-ketangkasan
+Mainan Bayi,mainan-bayi
+Diecast,diecast
+Remot Kontrol,remot-kontrol
+Boneka,boneka
+Mainan Lainnya,mainan-lainnya
+Video Games,video-games
+Playstation,playstation
+Nintendo,nintendo-game
+Xbox,xbox
+Game Retro,game-retro
+Video Games Lainnya,video-games-lainnya
+Aksesoris Video Game,aksesoris-video-game
+Controller,controller
+CD Game,cd-game
+Aksesoris Video Game Lainnya,aksesoris-video-game-lainnya
+Peralatan Rumah Tangga,peralatan-rumah-tangga
+Perlengkapan Rumah,perlengkapan-rumah
+Perlengkapan Tempat Tidur,perlengkapan-tempat-tidur
+Perlengkapan Kamar Mandi,perlengkapan-kamar-mandi
+Perlengkapan Dapur & Alat Masak,perlengkapan-dapur-alat-masak
+Furniture,furniture
+Dekorasi,dekorasi
+Alat Makan Dan Minum,alat-makan-dan-minum
+Perlengkapan Rumah Lainnya,perlengkapan-rumah-lainnya
+Pemeliharaan Rumah,pemeliharaan-rumah
+Perkakas,perkakas
+Pembersih Rumah,pembersih-rumah
+Taman,taman
+Pemeliharaan Rumah Lainnya,pemeliharaan-rumah-lainnya
+Elektronik Rumah Tangga,elektronik-rumah-tangga
+Mixer,mixer
+Setrika,setrika
+Blender,blender
+Alat Jahit,alat-jahit
+Pencahayaan,pencahayaan
+Dispenser,dispenser
+Kulkas,kulkas
+Mesin Cuci,mesin-cuci
+Laundry,laundry
+Rice Cooker,rice-cooker
+Peralatan Elektrik,peralatan-elektrik
+Elektronik Rumah Tangga Lainnya,elektronik-rumah-tangga-lainnya
+Alat Tulis Kantor,alat-tulis-kantor
+Hobi,hobi-musik-game-otomotif
+Buku,buku
+Buku Edukasi,buku-edukasi
+Komik,komik
+Novel,novel
+Majalah,majalah
+Buku Agama,buku-agama
+Buku Anak,buku-anak
+Musik,musik
+Alat Musik,alat-musik
+Musik Lainnya,musik-lainnya
+Rokok Elektrik,rokok-elektrik
+Starter Kit,starter-kit-rokok-elektrik
+Mods,mods-rokok-elektrik
+Tank & Atomizer,tank-atomizer
+e-Liquid / e-Juice,e-liquid-e-juice
+Spare Part,spare-part-rokok-elektrik
+Aksesoris,aksesoris-rokok-elektrik
+Korek Api & Aksesoris,korek-api-aksesoris
+Otomotif,otomotif
+Sepeda Motor,sepeda-motor
+Sepeda Listrik,sepeda-listrik
+Aksesoris Motor,aksesoris-motor
+Aksesoris Mobil,aksesoris-mobil
+Perawatan Kendaraan,perawatan-kendaraan
+Sparepart Motor,sparepart-motor
+Sparepart Mobil,sparepart-mobil
+Helm,helm
+Perlengkapan Pengendara Motor,perlengkapan-pengendara-motor
+Audio & Video Mobil,audio-video-mobil
+Pompa Ban,pompa-ban-sepeda
+Voucher,voucher
+Voucher Game,voucher-game
+Voucher Belanja,voucher-belanja
+Voucher Smartphone,voucher-smartphone
+Perawatan Hewan,perawatan-hewan
+Kandang Hewan,kandang-hewan
+Makanan Hewan,makanan-hewan
+Aksesoris Hewan,aksesoris-hewan
+Perawatan Hewan Lainnya,perawatan-hewan-lainnya
+Olahraga & Outdoor,olahraga-outdoor
+Olahraga Lari,olahraga-lari
+Sleeves Tangan & Kaki,sleeves-tangan-kaki
+Armband,armband
+Olahraga Sepeda,olahraga-sepeda
+Lampu,lampu-sepeda
+Tas Barang,tas-barang-sepeda
+Aksesoris Lainnya,aksesoris-sepeda-lainnya
+Outdoor & Adventure,outdoor-adventure
+Camping & Hiking,camping-hiking
+HT & Walkie Talkie,ht-walkie-talkie
+Perlengkapan EDC & Survival,perlengkapan-edc-survival
+Senter LED,senter-led
+Alat Pancing,alat-pancing
+Aksesoris Pancing Lainnya,aksesoris-pancing-lainnya
+Olahraga Badminton,olahraga-badminton
+Raket Badminton,raket-badminton
+Shuttlecock,shuttlecock
+Aksesoris Badminton Lainnya,aksesoris-badminton-lainnya
+Olahraga Renang,olahraga-renang
+Kacamata Renang,kacamata-renang
+Pelampung,pelampung
+Pakaian Renang,pakaian-renang
+Aksesoris Renang Lainnya,aksesoris-renang-lainnya
+Olahraga Tenis,olahraga-tenis
+Raket Tenis,raket-tenis
+Bat Tenis Meja,bat-tenis-meja
+Bola Tenis Meja,bola-tenis-meja
+Bola Tenis,bola-tenis
+Aksesoris Tenis Lainnya,aksesoris-tenis-lainnya
+Olahraga Sepak Bola,olahraga-sepak-bola
+Bola Sepak,bola-sepak
+Aksesoris Sepak Bola Lainnya,aksesoris-sepak-bola-lainnya
+Perlengkapan Olahraga,perlengkapan-olahraga
+Bola,bola
+Sepatu Olahraga,sepatu-olahraga
+Tas Olahraga,tas-olahraga
+Kaos Kaki Olahraga,kaos-kaki-olahraga
+Kacamata Olahraga,kacamata-olahraga
+Pelindung Tubuh,pelindung-tubuh
+Yoga & Fitness,yoga-fitness
+Traveling,traveling
+Timbangan Koper Digital,timbangan-koper-digital
+Botol Minum Travel,botol-minum-travel
+Travel Organizer,travel-organizer
+Adapter & Konverter Travel,adapter-konverter-travel
+Perlengkapan Travel Lainnya,perlengkapan-travel-lainnya
+Skuter & Skateboard Elektrik,skuter-skateboard-elektrik
+Olahraga Lainnya,olahraga-lainnya
+Makanan & Minuman,makanan-minuman
+Minuman,minuman
+Kopi,kopi
+Susu,susu
+Teh,teh
+Minuman Energy,minuman-energy
+Minuman Serbuk,minuman-serbuk
+Minuman Rasa,minuman-rasa
+Minuman Kaleng,minuman-kaleng
+Minuman Lainnya,minuman-lainnya
+Makanan Kering,makanan-kering
+Sereal,sereal
+Cemilan,cemilan
+Makanan Kering Lainnya,makanan-kering-lainnya
+Makanan Manis,makanan-manis
+Selai,selai
+Permen,permen
+Cokelat,cokelat
+Ice Cream,ice-cream
+Makanan Manis Lainnya,makanan-manis-lainnya
+Makanan Kaleng,makanan-kaleng
+Daging Olahan,daging-olahan
+Buah Olahan,buah-olahan
+Makanan Kaleng Lainnya,makanan-kaleng-lainnya
+Bumbu & Bahan Dasar,bumbu-bahan-dasar
+Minyak Goreng & Cuka,minyak-goreng-cuka
+Saus & Kecap,saus-kecap
+Bumbu,bumbu
+Gula & Garam,gula-garam
+Tepung,tepung
+Beras,beras
+Bumbu & Bahan Dasar Lainnya,bumbu-bahan-dasar-lainnya
+Roti & Kue,roti-kue
+Roti,roti
+Kue,kue
+Roti & Kue Lainnya,roti-kue-lainnya
+Makanan Lainnya,makanan-lainnya
